@@ -2,7 +2,7 @@
 <!-- <text>pages/board/board.wxml</text> -->
 <view class='container'>
   <view class="slide">
-    <swiper indicator-dots="true" autoplay="true" interval="5000" duration="1000">
+    <swiper indicator-dots="true" autoplay="true" interval="5000" circular='true' duration="1000">
       <swiper-item wx:for="{{ boards[0].movies }}" wx:key="id">
         <image src="{{ item.images.large }}" mode="aspectFill"/>
       </swiper-item>
