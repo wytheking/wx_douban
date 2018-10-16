@@ -2,7 +2,6 @@
 .header {
   display: flex;
   justify-content: center;
-  border-bottom: 1rpx solid #ccc;
 }
 
 .header text {
@@ -26,6 +25,6 @@
 
 .user-nickname {
   color: #aaa;
-  font-size: 40rpx;
+  font-size: 36rpx;
   margin-bottom: 30rpx;
 }

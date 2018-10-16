@@ -10,7 +10,7 @@ Page({
     title: 'About',
     userInfo: {
       wechat: 'WEDN-NET',
-      nickName: 'https://github.com/zce/weapp-douban',
+      nickName: 'https://github.com/wytheking/wx_douban.git',
       avatarUrl: '../../images/my_wx.jpg'
     }
   },
